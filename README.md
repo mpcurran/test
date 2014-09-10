@@ -1,4 +1,0 @@
-origin
-======
-
-Main remote repository.
